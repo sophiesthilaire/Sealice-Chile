@@ -2,7 +2,7 @@
 
 - S. St-Hilaire, T. Patanasatienkul, J. Yu, A.B. Kristoffersen, H. Stryhn, C.W. Revie, R. Ibarra, A. Tello and G. McEwan (2018) _Preventive Veterinary Medicine_
 
-### The equations developed in this paper have been made available as an <a href="https://cloud.anylogic.com/model/e25265dd-0ee2-45ef-b28e-3c075ae2c740?mode=DASH BOA RD" target="_blank"> _AnyLogic_ app </a>
+### The equations developed in this paper have been made available as an <a href="https://cloud.anylogic.com/model/e25265dd-0ee2-45ef-b28e-3c075ae2c740?mode=DASHBOARD" target="_blank"> _AnyLogic_ app </a> / <a href="https://cloud.anylogic.com/model/cc64843f-d1c4-49fa-994d-7d452242a812" target="_blank"> Version en español </a>
 
 
 **Please Note:**
